@@ -2,8 +2,8 @@
 
 Student: Alexander Reider
 Mail: acreider2003@gmail.com
-Reviewed by:
-Date reviewed:
+Reviewed by: Oliver
+Date reviewed: 06/05/2025
 
 """
 import random
